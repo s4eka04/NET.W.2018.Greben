@@ -1,1 +1,6 @@
+1)it was necessary to implement an extension method
+to obtain a stock binary representation of a binary precision
+real number in IEE754 format
 
+2)Calculate the largest common dilator
+for a number using two methods, Euclid and Stein.
