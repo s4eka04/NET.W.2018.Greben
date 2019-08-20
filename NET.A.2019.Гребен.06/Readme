@@ -1,4 +1,9 @@
-jaggedArray contains code to sort the array.
+1)jaggedArray contains code to sort the array.
 there are almost no comments in it because from the name of the methods
 it’s clear what they do, well, I think so
 there is also a method for comparing arrays. it is needed for testing
+2)polynomial contains code for working with polynomial and all possible overloads for working with polynomial.
+there are no more and fewer operators since polynomials cannot be compared like this
+
+
+and I wrote no nunit sorry. next time I will write nunit testing
