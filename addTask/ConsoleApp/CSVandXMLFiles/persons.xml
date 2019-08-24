@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<persons>
+  <person>
+    <idPerson>1</idPerson>
+    <firstName>egor</firstName>
+    <lastName>greben</lastName>
+    <dateOfBirth>1/1/2001 12:00:00 AM</dateOfBirth>
+  </person>
+  <person>
+    <idPerson>2</idPerson>
+    <firstName>egor</firstName>
+    <lastName>greben</lastName>
+    <dateOfBirth>1/1/2001 12:00:00 AM</dateOfBirth>
+  </person>
+  <person>
+    <idPerson>3</idPerson>
+    <firstName>sdgad gad</firstName>
+    <lastName>EFAEWGASDGA</lastName>
+    <dateOfBirth>4/5/2006 12:00:00 AM</dateOfBirth>
+  </person>
+</persons>
