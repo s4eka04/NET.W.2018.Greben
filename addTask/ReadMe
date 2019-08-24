@@ -1,1 +1,9 @@
+in a console application it was necessary to
+write a program for working with records through memory and a file,
+I write a repository to do this in parallel
+while the application is running, you can both work with the file and with memory
 
+
+and in the second task it was necessary to write sql queries,
+I have in my file the code for creating and filling out the tables,
+and the necessary code is marked with comments
