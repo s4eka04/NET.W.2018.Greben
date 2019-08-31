@@ -1,3 +1,4 @@
+### I did not know what to do in the class in which the Euclidean method is implemented for its refactoring
 ##### 1. For objects of class Book (ISBN, author, title, publisher, year of publication, number of pages, price) (homework of the 8th day)
 + реализовать возможность строкового представления различного вида.
 Например, для объекта со значениями ISBN = 978-0-7356-6745-7, AuthorName
