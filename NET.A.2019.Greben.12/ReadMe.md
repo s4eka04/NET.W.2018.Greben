@@ -5,3 +5,7 @@
 + #### Implement a generalized binary search algorithm (restrictions on type parameter not to use!). Develop unit tests
 
 + #### Implement a method to generate a sequence of Fibonacci numbers.
+
+### AddTask
++ #### Implemented a method (as you said) of roulette in which every 2.5 seconds it issues a number of two colors (red and green)
+
