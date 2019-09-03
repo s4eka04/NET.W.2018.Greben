@@ -1,0 +1,27 @@
+2019-09-02 17:29:19.0499 | DEBUG | NAT.A._2019.Greben._08.Service.BookListService | First open file: file1.dat
+2019-09-02 17:29:19.1057 | DEBUG | NAT.A._2019.Greben._08.Service.BookListService | Reading books from file, path to file: file1.dat
+2019-09-02 17:29:19.1117 | DEBUG | NAT.A._2019.Greben._08.Service.BookListService | Reading books from a file completed
+2019-09-02 17:29:19.1117 | DEBUG | NAT.A._2019.Greben._08.Service.BookListService | All books coped to List
+2019-09-02 17:29:20.1060 | DEBUG | NAT.A._2019.Greben._08.Service.BookListService | Show list
+2019-09-02 17:29:21.2659 | INFO | NAT.A._2019.Greben._08.Service.BookListService | Create book
+2019-09-02 17:29:28.7580 | DEBUG | NAT.A._2019.Greben._08.Service.BookListService | Find the book on list
+2019-09-02 17:29:28.7650 | DEBUG | NAT.A._2019.Greben._08.Service.BookListService | The book not found
+2019-09-02 17:29:28.7890 | INFO | NAT.A._2019.Greben._08.Service.BookListService | Book #1 has been created!
+2019-09-02 17:29:30.7370 | DEBUG | NAT.A._2019.Greben._08.Service.BookListService | Show list
+2019-09-02 17:29:33.2937 | DEBUG | NAT.A._2019.Greben._08.Service.BookListService | sort by tag
+2019-09-02 17:29:35.9110 | DEBUG | NAT.A._2019.Greben._08.Service.BookListService | Show list
+2019-09-02 17:29:37.7834 | INFO | NAT.A._2019.Greben._08.Service.BookListService | Create book
+2019-09-02 17:29:44.7477 | DEBUG | NAT.A._2019.Greben._08.Service.BookListService | Find the book on list
+2019-09-02 17:29:44.7607 | DEBUG | NAT.A._2019.Greben._08.Service.BookListService | The book not found
+2019-09-02 17:29:44.7757 | ERROR | NAT.A._2019.Greben._08.Program | Inccorect date, now is 2019
+2019-09-02 17:29:47.8654 | INFO | NAT.A._2019.Greben._08.Service.BookListService | Create book
+2019-09-02 17:30:01.9936 | DEBUG | NAT.A._2019.Greben._08.Service.BookListService | Find the book on list
+2019-09-02 17:30:02.0016 | DEBUG | NAT.A._2019.Greben._08.Service.BookListService | The book not found
+2019-09-02 17:30:02.0408 | ERROR | NAT.A._2019.Greben._08.Program | Inccorect date, now is 2019
+2019-09-02 17:30:03.6657 | INFO | NAT.A._2019.Greben._08.Service.BookListService | Create book
+2019-09-02 17:30:07.9586 | DEBUG | NAT.A._2019.Greben._08.Service.BookListService | Find the book on list
+2019-09-02 17:30:07.9586 | DEBUG | NAT.A._2019.Greben._08.Service.BookListService | The book not found
+2019-09-02 17:30:07.9796 | INFO | NAT.A._2019.Greben._08.Service.BookListService | Book #2 has been created!
+2019-09-02 17:30:09.9950 | DEBUG | NAT.A._2019.Greben._08.Service.BookListService | Show list
+2019-09-02 17:30:14.6102 | DEBUG | NAT.A._2019.Greben._08.Service.BookListService | Find book by Id, where Id is4
+2019-09-02 17:30:14.6102 | ERROR | NAT.A._2019.Greben._08.Program | Book not found
