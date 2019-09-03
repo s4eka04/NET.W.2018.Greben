@@ -4,6 +4,7 @@
 [Time](https://github.com/s4eka04/NET.W.2018.Greben/tree/master/NET.A.2019.Greben.12/Time)
 + #### Implement a generalized binary search algorithm (restrictions on type parameter not to use!). Develop unit tests
 [BinarySearch](https://github.com/s4eka04/NET.W.2018.Greben/blob/master/NET.A.2019.Greben.12/BinarySearch/Binary.cs)
+
 [Test](https://github.com/s4eka04/NET.W.2018.Greben/blob/master/NET.A.2019.Greben.12/BinarySearch/UnitTest1.cs)
 + #### Implement a method to generate a sequence of Fibonacci numbers.
 [Fibonacci](https://github.com/s4eka04/NET.W.2018.Greben/tree/master/NET.A.2019.Greben.12/Fibonacci)
