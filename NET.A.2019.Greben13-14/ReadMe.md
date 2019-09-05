@@ -1,3 +1,5 @@
+### I didn’t write tests for the second task because I didn’t know how to check matrices in tests, there were also console applications in the first task
+
 #### 1. Develop a generic Queue collection class that implements the core operations for working with the queue, and the opportunity iteration by implementing the iterator "manually" (without using iterator output). Test the methods of the developed class. 
 
 #### 2.Create generic classes to represent square, symmetric, and diagonal matrices (a symmetric matrix is a square matrix, which coincides with the transposed to it; the diagonal matrix is a square matrix whose elements outside the main diagonal are known to be have default values for the item type). Describe in created classes event that occurs when a matrix element with indices (i,j). Extend the functionality of the existing class hierarchy by adding the ability to add two matrices of any type. Develop unit- tests.
