@@ -1,0 +1,16 @@
+C:\Users\MIB\Desktop\AccountSystemApplication\BLL.Interface\bin\Debug\BLL.Interface.dll
+C:\Users\MIB\Desktop\AccountSystemApplication\BLL.Interface\bin\Debug\BLL.Interface.pdb
+C:\Users\MIB\Desktop\AccountSystemApplication\BLL.Interface\obj\Debug\BLL.Interface.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\AccountSystemApplication\BLL.Interface\obj\Debug\BLL.Interface.dll
+C:\Users\MIB\Desktop\AccountSystemApplication\BLL.Interface\obj\Debug\BLL.Interface.pdb
+C:\Users\s4eka\Desktop\AccountSystemDemo\BLL.Interface\bin\Debug\BLL.Interface.dll
+C:\Users\s4eka\Desktop\AccountSystemDemo\BLL.Interface\bin\Debug\BLL.Interface.pdb
+C:\Users\s4eka\Desktop\AccountSystemDemo\BLL.Interface\bin\Debug\DAL.dll
+C:\Users\s4eka\Desktop\AccountSystemDemo\BLL.Interface\bin\Debug\DAL.Interface.dll
+C:\Users\s4eka\Desktop\AccountSystemDemo\BLL.Interface\bin\Debug\DAL.Interface.pdb
+C:\Users\s4eka\Desktop\AccountSystemDemo\BLL.Interface\bin\Debug\DAL.pdb
+C:\Users\s4eka\Desktop\AccountSystemDemo\BLL.Interface\obj\Debug\BLL.Interface.csprojAssemblyReference.cache
+C:\Users\s4eka\Desktop\AccountSystemDemo\BLL.Interface\obj\Debug\BLL.Interface.csproj.CoreCompileInputs.cache
+C:\Users\s4eka\Desktop\AccountSystemDemo\BLL.Interface\obj\Debug\BLL.Interface.csproj.CopyComplete
+C:\Users\s4eka\Desktop\AccountSystemDemo\BLL.Interface\obj\Debug\BLL.Interface.dll
+C:\Users\s4eka\Desktop\AccountSystemDemo\BLL.Interface\obj\Debug\BLL.Interface.pdb
