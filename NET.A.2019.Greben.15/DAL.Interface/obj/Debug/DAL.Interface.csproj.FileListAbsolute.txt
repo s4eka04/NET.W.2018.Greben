@@ -1,0 +1,12 @@
+C:\Users\MIB\Desktop\AccountSystemApplication\DAL.Interface\bin\Debug\DAL.Interface.dll
+C:\Users\MIB\Desktop\AccountSystemApplication\DAL.Interface\bin\Debug\DAL.Interface.pdb
+C:\Users\MIB\Desktop\AccountSystemApplication\DAL.Interface\obj\Debug\DAL.Interface.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\AccountSystemApplication\DAL.Interface\obj\Debug\DAL.Interface.dll
+C:\Users\MIB\Desktop\AccountSystemApplication\DAL.Interface\obj\Debug\DAL.Interface.pdb
+C:\Users\MIB\Desktop\AccountSystemApplication\DAL.Interface\obj\Debug\DAL.Interface.csprojResolveAssemblyReference.cache
+C:\Users\s4eka\Desktop\AccountSystemDemo\DAL.Interface\bin\Debug\DAL.Interface.dll
+C:\Users\s4eka\Desktop\AccountSystemDemo\DAL.Interface\bin\Debug\DAL.Interface.pdb
+C:\Users\s4eka\Desktop\AccountSystemDemo\DAL.Interface\obj\Debug\DAL.Interface.csprojAssemblyReference.cache
+C:\Users\s4eka\Desktop\AccountSystemDemo\DAL.Interface\obj\Debug\DAL.Interface.csproj.CoreCompileInputs.cache
+C:\Users\s4eka\Desktop\AccountSystemDemo\DAL.Interface\obj\Debug\DAL.Interface.dll
+C:\Users\s4eka\Desktop\AccountSystemDemo\DAL.Interface\obj\Debug\DAL.Interface.pdb
