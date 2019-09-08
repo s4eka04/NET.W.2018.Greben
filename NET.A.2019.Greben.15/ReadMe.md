@@ -3,3 +3,11 @@
 + #### execute debiting from the account;
 + #### create a new account;
 + #### close an account.
+#### To store account information, you can use fake implementation repository (repository) as a wrapper class for the List<Account\>  collection. Demonstrate the operation of classes using the example of a console application. When designing types, consider the following options. functionality extensions / changes
++ #### adding new types of accounts;
++ #### change / add sources of storage of information about accounts;
++ #### change the logic for calculating bonus points;
++ #### changing the logic for generating the account number.
+### To organize classes and interfaces use “The Stairway pattern”
+### To resolve dependencies, use the Ninject framework.
+### Test the Bll layer (NUnit and Moq frameworks).
