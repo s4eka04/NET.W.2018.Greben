@@ -5,4 +5,4 @@
 + https://github.com/AnzhelikaKravchuk/2017-2018.MMF.BSU
 + https://habrahabr.ru/company/it-grad/blog/341486/
 
-##### the result is an XML document of the form (any XML can be used technology without limits).
+##### the result is an XML document of the form (any XML can be used technology without limits).For URLs that do not match this pattern, “pledge” information by marking the specified lines as unprocessed. Demonstrate using a console application as an example.
