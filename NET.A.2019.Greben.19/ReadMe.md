@@ -1,6 +1,5 @@
 
-Information about URLs is stored in a text file line by line,
-represented as #### <scheme>://<host>/<URL ‐ path>? <parameters>, where segment
+#### Information about URLs is stored in a text file line by line, represented as ##### (<scheme>://<host>/<URL ‐ path>? <parameters>), where segment
 parameters is a set of pairs of the form key = value, with the URL ‐ path and parameters segments
 or the parameters segment may be missing.
 Develop a type system (guided by SOLID principles) for
