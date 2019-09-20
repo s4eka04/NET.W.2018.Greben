@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<urlAddresses>
+  <urlAdress>
+    <host name="habrahabr.ru" />
+    <uri>
+      <segment>company</segment>
+      <segment>it-grad</segment>
+      <segment>blog</segment>
+      <segment>341486</segment>
+    </uri>
+  </urlAdress>
+  <urlAdress>
+    <host name="github.com" />
+    <uri>
+      <segment>AnzhelikaKravchuk</segment>
+    </uri>
+    <parameters>
+      <parametr value="repositories" key="tab" />
+      <parametr value="Иванова" key="surname" />
+    </parameters>
+  </urlAdress>
+  <urlAdress>
+    <host name="vk.com" />
+    <uri>
+      <segment>im</segment>
+    </uri>
+    <parameters>
+      <parametr value="158540248_183904413" key="peers" />
+    </parameters>
+  </urlAdress>
+  <urlAdress>
+    <host name="drive.google.com" />
+    <uri>
+      <segment>drive</segment>
+      <segment>folders</segment>
+      <segment>1Pg9UT6TcSciw3q4yPDgGUYJ4RCu-4iHE</segment>
+    </uri>
+  </urlAdress>
+</urlAddresses>
